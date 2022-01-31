@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<a href="https://www.instagram.com/g.atahan/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>]()
-[<a href="https://github.com/goktugatahan"><img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>]()
+[<a href="https://github.com/goktugatahan"><img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>]()
 [<a href="https://twitter.com/goktugatahan1"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>]()
 [<a href="https://www.linkedin.com/in/g%C3%B6ktu%C4%9F-atahan-68805b1bb/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>]()
 
